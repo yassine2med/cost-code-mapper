@@ -2,6 +2,8 @@
 
 # cost-code-mapper
 
+[![CI](https://github.com/yassine2med/cost-code-mapper/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/cost-code-mapper/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Sorts free-text invoice and cost lines into CSI MasterFormat divisions (Concrete, Plumbing, Electrical and so on) using keyword rules.
 
 ![Screenshot](docs/screenshot.png)
