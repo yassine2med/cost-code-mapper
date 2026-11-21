@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="cost-code-mapper" width="100%"></p>
+
 # cost-code-mapper
 
 Sorts free-text invoice and cost lines into CSI MasterFormat divisions (Concrete, Plumbing, Electrical and so on) using keyword rules.
